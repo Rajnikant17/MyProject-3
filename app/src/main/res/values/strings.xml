@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GridViewNew</string>
+    <string-array name="details">
+        <item>Qutub Minar1</item>
+        <item>Qutub Minar2</item>
+        <item>Qutub Minar3</item>
+        <item>Qutub Minar4</item>
+        <item>Qutub Minar5</item>
+        <item>Qutub Minar6</item>
+        <item>Qutub Minar7</item>
+        <item>Qutub Minar8</item>
+        <item>Qutub Minar9</item>
+        <item>Qutub Minar10</item>
+        <item>Qutub Minar11</item>
+        <item>Qutub Minar12</item>
+        <item>Qutub Minar13</item>
+        <item>Qutub Minar14</item>
+        <item>Qutub Minar15</item>
+        <item>Qutub Minar16</item>
+    </string-array>
+</resources>
